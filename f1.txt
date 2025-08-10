@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hi hello
 
 int i =10
@@ -6,8 +6,8 @@ int i =10
 int j= 20
 
 dugu
-=======
+
 Hi Monalisa Panda, bayani
 
 how are you
->>>>>>> 07cb3771e470ae7e6d206d54c72fec01f95137dc
+
