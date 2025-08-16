@@ -4,12 +4,12 @@ hi hello
 int i =10
 
 int j= 20
-
+int k= 30
 dugu
 
 Hi Monalisa Panda, bayani
 
-how are you
+
 
 hlooooo
 
